@@ -1,0 +1,17 @@
+{
+  "name": "curso-bootstrap-4-layout-netflix-master",
+  "version": "1.0.0",
+  "description": "Este repositório contém o layout da Netflix desenvolvido em nosso treinamento \"Bootstrap 4 - Curso Completo\"",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.3.1",
+    "jquery": "^3.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
